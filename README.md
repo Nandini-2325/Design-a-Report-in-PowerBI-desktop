@@ -17,8 +17,8 @@ The final report is published to the **Power BI Service**, where users can inter
 **Features:**
 - Mix of visualizations including **clustered column charts** and **KPI cards**  
 - Proper field configuration to clearly display key metrics (e.g., **Sales, Revenue, Customer Count**)  
-- Formatting applied for **readability** and **visual consistency**  
-<img width="796" height="447" alt="image" src="https://github.com/user-attachments/assets/d6153613-0ca8-4bbe-8653-ee773e92a866" />
+- Formatting applied for **readability** and **visual consistency
+<img width="1190" height="664" alt="image" src="https://github.com/user-attachments/assets/0d228202-33c2-4987-9dab-76132f5bf2d3" />
 
 ---
 
@@ -27,7 +27,8 @@ The final report is published to the **Power BI Service**, where users can inter
 - Detailed breakdown of performance by **category or region**  
 - Use of **filters** and **slicers** for interactive data exploration  
 - Visual hierarchy using proper **titles, legends, and color schemes**
-<img width="816" height="452" alt="image" src="https://github.com/user-attachments/assets/cb799527-2e78-4792-a303-94fbd9410288" />
+<img width="1137" height="304" alt="image" src="https://github.com/user-attachments/assets/c7ebb83c-bf96-4cb8-9354-9703f76b4186" />
+
 
 ---
 
@@ -36,13 +37,13 @@ The final report is published to the **Power BI Service**, where users can inter
 - **Drill-down** capabilities and **cross-filtering** between visuals  
 - Deeper insights into **trends** and **comparisons over time**  
 - Enhanced formatting for **narrative storytelling**
-<img width="758" height="451" alt="image" src="https://github.com/user-attachments/assets/1a647520-f7dd-4024-abc3-58042984b88a" />
+<img width="1244" height="715" alt="image" src="https://github.com/user-attachments/assets/b00d06cf-0262-4529-a044-f46ac0c9e6ce" />
 
 ---
 
 ## ☁️ Published Report in Power BI Service
 After completing the design in Power BI Desktop, the report was published to the **Power BI Service**, allowing **interactive exploration** in the browser.
-<img width="810" height="449" alt="image" src="https://github.com/user-attachments/assets/5ed5b93d-d359-4046-9fb2-aa06f7032fdd" />
+[Link to my Report](https://app.powerbi.com/view?r=eyJrIjoiZWZhMGZhY2MtYTNmZS00OWEzLThlYjYtODk0ZWMzNTJkYzA4IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
 ---
 
